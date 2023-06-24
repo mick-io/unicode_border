@@ -2,7 +2,6 @@
 authors = ["Mick Piereder mick.io@pm.me"]
 categories = ["text-processing", "unicode", "text", "border"]
 description = "A brief description of your package"
-edition = "2023"
 keywords = ["unicode", "text", "border"]
 license = "MIT"
 name = "unicode_border"
